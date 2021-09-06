@@ -50,4 +50,3 @@ void main()
             printf("%d\t",mul[i][j]);
     }
 }
-
